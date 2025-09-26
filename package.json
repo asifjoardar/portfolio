@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://yourusername.github.io/my-portfolio",
+  "homepage": "https://asifjoardar.github.io/portfolio",
   "keywords": [
     "portfolio",
     "react",
